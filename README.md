@@ -1,4 +1,4 @@
-#Partial PCLP
+# Partial PCLP
 
 In test.c este rezolvarea problemei in mod "standart" , adica nu suntem limitati la a folosi doar o singura solutie.
 
