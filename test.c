@@ -75,6 +75,7 @@ int main(){
 		printf("Eroare la alocarea memorie\n");
 		return -1;
 	}
+	printf("Introduceti sirul : ");
 	while(scanf("%c" , &litera) == 1){
 		if(litera == '\n'){
 			break;
